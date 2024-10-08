@@ -1,4 +1,4 @@
-# NineSliced
+# Ninesliced
 We are a team of young game developers composed of:
 - [`ArkanYota`](https://github.com/arkanyota)
 - [`Artichaut`](https://github.com/LeSeulArtichaut)
