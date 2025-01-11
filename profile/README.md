@@ -2,6 +2,7 @@
 We are a team of young game developers composed of:
 - [`ArkanYota`](https://github.com/arkanyota)
 - [`Artichaut`](https://github.com/LeSeulArtichaut)
+- Goupourd
 - [`NotGoyome`](https://github.com/notgoyome)
 - [`Strochnis`](https://on.soundcloud.com/wk1kdJsHbH2m8tLZ8)
 - [`Theobosse`](https://github.com/TheodoreBillotte)
