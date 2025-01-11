@@ -4,7 +4,7 @@ We are a team of young game developers composed of:
 - [`Artichaut`](https://github.com/LeSeulArtichaut)
 - Goupourd
 - [`NotGoyome`](https://github.com/notgoyome)
-- [`Strochnis`](https://on.soundcloud.com/wk1kdJsHbH2m8tLZ8)
+- [`Strochnis`](https://on.soundcloud.com/wk1kdJsHbH2m8tLZ8) <- ptdr c'est qui
 - [`Theobosse`](https://github.com/TheodoreBillotte)
 - [`Yolwoocle`](https://github.com/Yolwoocle)
 
